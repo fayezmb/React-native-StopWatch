@@ -31,7 +31,7 @@ export default class project extends Component {
   }
 }
 
-const styles = StyleSheet.create({
+var styles = StyleSheet.create({
   container: {
     flex: 1,
     justifyContent: 'center',
